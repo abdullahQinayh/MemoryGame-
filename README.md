@@ -12,7 +12,7 @@
 
 
 
- # Tecknical
+ # Technical
  * index.html - contains the game's html structure.
  * css.css - contains the game's board styling.
  * app.js - contains all the board actions & logic.
